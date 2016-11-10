@@ -8,9 +8,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS", "JS", "{C323E9A6-6396-4F92-BFBF-8EEE80257EB1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bookmarks", "Bookmarks", "{EC9F3A25-A4FC-42B5-AD87-76BEDBB6C47A}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Favorites\Links\CRM\Admin\Enable All Fields.url = ..\..\..\..\Favorites\Links\CRM\Admin\Enable All Fields.url
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Admin", "Admin", "{A8FADB75-71E9-4E3D-8B25-25BBAE1CFCBE}"
 	ProjectSection(SolutionItems) = preProject
