@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A0393DC1-7880-4C67-97B7-C941E8627C03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS", "JS", "{C323E9A6-6396-4F92-BFBF-8EEE80257EB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bookmarks", "Bookmarks", "{EC9F3A25-A4FC-42B5-AD87-76BEDBB6C47A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Favorites\Links\CRM\Admin\Enable All Fields.url = ..\..\..\..\Favorites\Links\CRM\Admin\Enable All Fields.url
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Admin", "Admin", "{A8FADB75-71E9-4E3D-8B25-25BBAE1CFCBE}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Favorites\Links\CRM\Admin\Enable All Fields.url = ..\..\..\..\Favorites\Links\CRM\Admin\Enable All Fields.url
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Admin", "Admin", "{E72EE657-26B8-4E51-8E69-F695FEB741AE}"
+	ProjectSection(SolutionItems) = preProject
+		EnableAllFields.js = EnableAllFields.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C323E9A6-6396-4F92-BFBF-8EEE80257EB1} = {A0393DC1-7880-4C67-97B7-C941E8627C03}
+		{EC9F3A25-A4FC-42B5-AD87-76BEDBB6C47A} = {A0393DC1-7880-4C67-97B7-C941E8627C03}
+		{A8FADB75-71E9-4E3D-8B25-25BBAE1CFCBE} = {EC9F3A25-A4FC-42B5-AD87-76BEDBB6C47A}
+		{E72EE657-26B8-4E51-8E69-F695FEB741AE} = {C323E9A6-6396-4F92-BFBF-8EEE80257EB1}
+	EndGlobalSection
+EndGlobal
