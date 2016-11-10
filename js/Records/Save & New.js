@@ -1,0 +1,1 @@
+(function() { $("iframe").filter(function() { return $(this).css("visibility") == "visible" })[0].contentWindow.Xrm.Page.data.entity.save('saveandnew'); })();

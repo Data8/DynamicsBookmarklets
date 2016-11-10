@@ -1,0 +1,9 @@
+{
+	"version": "1.0.0",
+	"name": "DynamicsBookmarklets",
+	"private": true,
+  "devDependencies": {
+    "gulp": "3.x.x",
+    "gulp-bookmarklet": "1.0.0"
+  }
+}

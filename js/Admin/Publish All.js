@@ -1,0 +1,1 @@
+(function() { $("iframe").filter(function() { return $(this).css("visibility") == "visible" })[0].contentWindow.Mscrm.FormEditor.PublishAll(); })();
