@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="js\Admin\Save Publish and Close.js" />
     <Content Include="packages.config" />
     <Content Include="package.json" />
   </ItemGroup>
@@ -112,6 +113,9 @@
   <ItemGroup>
     <Folder Include="Properties\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="README.md" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
@@ -123,7 +127,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>True</UseIIS>
+          <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>56486</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
