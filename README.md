@@ -45,7 +45,7 @@ There are 6 form types that a CRM form can be (CREATE/UPDATE/READ_ONLY/DISABLED/
 Lists some information about the current CRM system including Organisation name, web URL and # of active users.
 
 #### Get Solution Dependancies
-????????????????????????
+Lists any dependancies for a given solution. This bookmarklet may require further expansion.
 
 #### Publish All
 Publishes and any all changes made in the current solution, regardless of what window you are in (within the context of the solution)
