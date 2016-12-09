@@ -3,7 +3,7 @@ Bookmarklets to simplify using Microsoft Dynamics CRM
 
 ## Importing Bookmarklets
 
-1. Download the [dynamics-bookmarklets-Admin.html], [dynamics-bookmarklets-Navigation.html] and [dynamics-bookmarklets-Records.html] files
+1. Download the [dynamics-bookmarklets-Admin.html](dynamics-bookmarklets-Admin.html), [dynamics-bookmarklets-Navigation.html](dynamics-bookmarklets-Navigation.html) and [dynamics-bookmarklets-Records.html](dynamics-bookmarklets-Records.html) files
 1. In Internet Explorer:
   1. File > Import and Export...
   1. Select "Import from a file" and click Next
